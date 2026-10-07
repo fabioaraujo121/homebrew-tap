@@ -2,6 +2,7 @@
 
 ```sh
 brew tap fabioaraujo121/tap
+brew trust fabioaraujo121/tap
 brew install --cask pair
 ```
 
